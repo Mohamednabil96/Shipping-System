@@ -8,9 +8,9 @@ This system is designed for shipping companies.
 
 ## Features
 
-- Order creation, tracking, and delivery management for traders
-- Streamlined administrative tasks for employees
-- Real-time updates for representatives
+- Order creation, tracking, and delivery management for traders.
+- Streamlined administrative tasks for employees.
+- Real-time updates for representatives.
 - User management for effortless management of user roles and permissions.
 
 ## Installation
